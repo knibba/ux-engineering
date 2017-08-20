@@ -1,7 +1,6 @@
 # UX Engineering - helpful sites, tools & tutorials
 
-(https://github.com/knibba/ux-engineer)
-> A hand picked list of awesome resources & tools for ux engineers, designers &amp; front-end developer.
+> A hand picked list of awesome resources & tools for ux engineers, designers &amp; front-end developers.
 
 **Check out my [website](http://www.knibba.de) & follow me on [Twitter](https://twitter.com/kknibba).**
 
@@ -37,9 +36,18 @@
 * [UI Gradients](http://uigradients.com/): Beautiful color gradients.
 
 ## Typography
-* [Fontpair](http://fontpair.co): Helps designers pair Google Fonts together.
+* [100daysoffonts](http://100daysoffonts.com/): 100 days of fonts.
+* [designmodo](https://designmodo.com/great-font-combinations/): Great font combinations.
+
+### Libraries
+* [Font Squirrel](https://www.fontsquirrel.com/): Big resource for free, hand-picked, high-quality & commercial-use fonts.
 * [Google Web Fonts](http://fonts.google.com): Open source designer web fonts.
+
+### Combinations
+* [archetype](https://archetypeapp.com/): Improved Version of the Fontpairing tool from "our own thing" with Sketch export option.
+* [Fontpair](http://fontpair.co): Helps designers pair Google Fonts together.
 * [Type Anything](https://typeanything.io/): Create your own font combinations.
+* [ourownthing](http://www.ourownthing.co.uk/fontpairing/): Fontpairing with Google Fonts.
 
 ## Icons
 * [Flat Icon](http://flaticon.com): Thousands of free flat icons.
@@ -62,8 +70,6 @@
 * [Pixabay](https://pixabay.com/): High quality photos, vectors and illustrations (Creative Commons CC0 license).
 * [StockSnap](https://stocksnap.io/): Beautiful free stock photos (Creative Commons CC0 license).
 * [Unsplash](https://unsplash.com/): All photos published on Unsplash can be used for free. You can use them for commercial and noncommercial purposes.
-
-### Stockfotos
 
 ### Community
 * [Flickr](https://www.flickr.com): Find your inspiration - Flickr community.
@@ -112,15 +118,18 @@
 
 ## Development
 ### CSS
+
+#### BEM
 * [BEM](http://getbem.com/): Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development.
+* [Sparkbox](https://seesparkbox.com/foundry/bem_by_example): BEM by example.
 
 #### Flexbox
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): CSS Tricks - Flexbox Tutorial
-* [Flexbox Froggy](http://flexboxfroggy.com/): Flexbox Froggy is a game for learning CSS flexbox
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): CSS Tricks - Flexbox Tutorial.
+* [Flexbox Froggy](http://flexboxfroggy.com/): Flexbox Froggy is a game for learning CSS flexbox.
 * [Flexbox Defense](http://www.flexboxdefense.com/): Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 
 #### CSS Grid
-* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): CSS Tricks - Grid Tutorial
+* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): CSS Tricks - Grid Tutorial.
 * [Grid Garden](http://cssgridgarden.com/): Grid Garden is a game for learning CSS grid layout.
 
 ## Guidelines
