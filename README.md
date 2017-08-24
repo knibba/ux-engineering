@@ -137,6 +137,7 @@
 * [CSS-Tricks](https://css-tricks.com/almanac/): CSS Reference. Awesome resource around css & web-development.
 * [cssreference.io](http://cssreference.io/): CSS Reference.
 * [Codrops](https://tympanus.net/codrops/css_reference/): CSS Reference. Useful resources & inspiration about the latest web trends.
+* [cssmatic](https://www.cssmatic.com/box-shadow): CSS Tools: Gradient Generator, Border Radius, Noise Texture, Box Shadow
 
 #### BEM
 * [BEM](http://getbem.com/): Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development.
@@ -154,11 +155,15 @@
 #### Frameworks
 * [Bootstrap 4](https://getbootstrap.com): Build responsive, mobile-first projects on the web (Flexbox, SASS & jQuery).
 * [Bulma](http://bulma.io/): A modern CSS framework based on Flexbox (Flexbox & SASS).
+* [Material Design Lite](https://getmdl.io/): Material Design Lite lets you add a Material Design look and feel to your websites.
 
 
 ### JavaScript
-#### Frameworks
+#### VueJS 2
 * [The Net Ninja](https://www.youtube.com/watch?v=5LYrN_cAJoA&index=1&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa): VueJS 2 Tutorial (youtube).
+
+#### Frameworks
+* [BootstrapVue](https://bootstrap-vue.js.org/): Quickly integrate Bootstrap 4 components with Vue.js.
 
 
 ## Guidelines
