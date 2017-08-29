@@ -62,6 +62,8 @@
 ### Libraries
 * [Font Awesome](http://fontawesome.io): The iconic font and CSS toolkit.
 * [Google Material Icons](https://material.io/icons/): Free to use material design icons from Google.
+* [Ionicons](http://ionicons.com/): The premium icon font for Ionic Framework.
+* [Material Design Icons](https://materialdesignicons.com/): Missing Social Media icons for Google Material Design and more.
 
 ### Favicons
 * [Favicon Generator](http://www.favicon-generator.org/): Favicon & app icon generator.
