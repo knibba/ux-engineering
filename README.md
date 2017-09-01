@@ -14,10 +14,9 @@
 - [Images](#images)
 - [Videos](#videos)
 - [Concept](#concept)
-- [Usability](#usability)
 - [Design](#design)
+- [User Interface](#user-interface)
 - [Development](#development)
-- [Guidelines](#guidelines)
 - [Productivity](#productivity)
 
 
@@ -100,10 +99,6 @@
 * [InVision](https://www.invisionapp.com/): Prototyping, collaboration & workflow platform.
 
 
-## Usability
-* [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
-
-
 ## Design
 ### Sketch
 * [Sketch](http://sketchapp.com): A lightweight & easy-to-use program for digital design (for Mac).
@@ -130,10 +125,30 @@
 * [Frontify](http://frontify.com): Create brand guidelines & smart UI libraries.
 
 
+## User Interface
+* [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
+
+### Components & Frameworks
+* [Bootstrap 4](https://getbootstrap.com): Build responsive, mobile-first projects on the web (Flexbox, SASS & jQuery).
+* [Boostrap native](http://thednp.github.io/bootstrap.native/): Using Native JavaScript for Bootstrap 4.
+* [BootstrapVue](https://bootstrap-vue.js.org/): Quickly integrate Bootstrap 4 components with VueJS.
+* [Bulma](http://bulma.io/): A modern CSS framework based on Flexbox (Flexbox & SASS).
+* [Keen UI](https://josephuspaye.github.io/Keen-UI): A lightweight collection of essential UI components written with Vue.js and inspired by Material Design.
+* [Material Design Lite](https://getmdl.io/): Material Design Lite lets you add a Material Design look and feel to your websites.
+* [MaterializeCSS](http://materializecss.com/): Materialize, a CSS Framework based on material design.
+* [Material UI](http://www.material-ui.com/): A Set of React Components that Implement Google's Material Design.
+* [Muse-UI](http://www.muse-ui.org/): A VueJS and Material Design based UI Component library.
+* [Vue Material](http://vuematerial.io/): Vue Material is lightweight framework built exactly according to the Material Design specs.
+* [Vuetify](https://vuetifyjs.com/): Material Component Framework (VueJS).
+
+### Guidelines
+* [Apples Human Interface Guidelines](https://developer.apple.com/design/): Apples Human Interface Guidelines for macOS, iOS, watchOS, tvOS & CarPlay.
+* [Google Material Design](https://material.google.com/): Design, components & resources for Google's brand.
+
+
 ## Development
 ### HTML
 * [htmlreference.io](http://htmlreference.io/): HTML Reference.
-
 
 ### CSS
 * [CSS-Tricks](https://css-tricks.com/almanac/): CSS Reference. Awesome resource around css & web-development.
@@ -154,23 +169,9 @@
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): CSS Tricks - Grid Tutorial.
 * [Grid Garden](http://cssgridgarden.com/): Grid Garden is a game for learning CSS grid layout.
 
-#### Frameworks
-* [Bootstrap 4](https://getbootstrap.com): Build responsive, mobile-first projects on the web (Flexbox, SASS & jQuery).
-* [Bulma](http://bulma.io/): A modern CSS framework based on Flexbox (Flexbox & SASS).
-* [Material Design Lite](https://getmdl.io/): Material Design Lite lets you add a Material Design look and feel to your websites.
-
-
 ### JavaScript
 #### VueJS 2
 * [The Net Ninja](https://www.youtube.com/watch?v=5LYrN_cAJoA&index=1&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa): VueJS 2 Tutorial (youtube).
-
-#### Frameworks
-* [BootstrapVue](https://bootstrap-vue.js.org/): Quickly integrate Bootstrap 4 components with Vue.js.
-
-
-## Guidelines
-* [Apples Human Interface Guidelines](https://developer.apple.com/design/): Apples Human Interface Guidelines for macOS, iOS, watchOS, tvOS & CarPlay.
-* [Google Material Design](https://material.google.com/): Design, components & resources for Google's brand.
 
 
 ## Productivity
